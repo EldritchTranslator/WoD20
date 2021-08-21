@@ -104,15 +104,86 @@ Come il Dono Lupus.
 Questo Dono protegge il Corax da fuoco e calore. Viene insegnato da un Avatar di Corvo.  
 Sistema: Si spendono due punti Furia per fare un tiro di Costituzione + Istinto Primordiale (diff 6). Il COrax è così immune a ogni fuoco, fiamma e calore, non importa quanto intensi, per un numero di turni pari ai successi. Rimane vulnerabile al Balefire.  
 
-## Riti
+## Riti  
+
+### Occhi dello stormo
+Livello 2, Mistico  
+Il Corax che usa questo Rito può vedere attraverso gli occhi di qualunque altro corvide.  
+Sistema: Quando il Rito viene eseguito con successo il Maestro di Rito e tutti i partecipanti possono vedere tramite gli occhi di qualunque altro corvide in un raggio di (Gnosi x 1,5) km. Il peso delle sensazioni ricevute è enorme ma può essere diviso tra i partecipanti; per riuscire a trovare ciò che si cerca il reggente deve fare un tiro di Percezione + Enigmi a difficoltà 9 con -1 per ogni altro partecipante.  
+
+### Rito dei brillanti raggi solari  
+Livello 2, Mistico
+
+### Rito dell'uovo feticcio
+
 ## Feticci
 
-# Meriti e Difetti
+### uPhone  
 
-# Background
+Livello 3, Gnosi 8  
+
+Un cellulare che funziona ovunque e in qualunque dimensione, senza mai scaricarsi o costare.
+
+# Pregi e Difetti  
+
+## Doppia sorsata (2 punti)
+
+Il Corax può bere da entrambi gli occhi di un morto, vedendo sia il peggio che il meglio della morte di qualcuno.  
+
+# Background  
+
+I Corax raramente seguono a lungo un solo mentore, e per loro la Razza Pura è una scemata elitista. Non hanno Totem personali: Corax dà a tutti Atletica +1, Enigmi +1, e Sotterfugio +1.  
+
+## Segreti  
+
+Il personaggio possiede delle informazioni che possono essere considerate importanti o dannose da qualcun altro. Queste informazioni possono portare guai ma sono più che altro utili al personaggio.
+
+## Mappe Umbrali  
+
+Il personaggio possiede molte conoscenze dell'Umbra e ha molta esperienza nell'attraversarla. 
 
 # Manovre di combattimento
 
+## Cavaocchi
+
+I Corax con quattro successi a un tiro di attacco e almeno due livelli di danno non assorbiti possono cavare l'occhio di un avversario vivo. Questo rende i livelli di danno aggravati anche se il Corax è in forma corvo. I Mutaforma che non soffrono di una cicatrice di battaglia da questo evento possono farsi ricrescere l'occhio con il tempo.  
+
+**Usabile da**: Crinos e Corvid  
+**Tiro**: Destrezza + Lotta  (difficoltà 9)  
+**Danni**: Forza +1  
+**Azioni**: 2  
+
+## Colpo d'ala
+
+Questa Manovra richiede il Dono: *Penne rasoio*. Il Corax colpisce l'avversario con l'ala, rinforzata da penne affilate. Anche se il colpo manca l'avversario deve fare un tiro di Destrezza a difficoltà 5 o essere sbilanciato (con difficoltà +1 a tutti i tiri fisici) per il resto del turno.  
+
+**Usabile da**: Crinos    
+**Tiro**: Destrezza + Lotta  (difficoltà 7)  
+**Danni**: Forza +2  
+**Azioni**: 1
+
 # Lista breve
 
+- **Frenesia**: Come i Garou, sempre a difficoltà 6;
+- **Rigenerazione**: Come i Garou;
+- **Vulnerabilità**: Non hanno problemi con l'argento ma con l'oro, da cui prendono danni aggravati non tankabili;
+- **Passo di lato**: Come i Garou;
+- **Delirio**: La forma Crinos induce Delirio ridotto (conta come due punti in più di Volontà);
+
 # Rinomanza
+
+I Corax usano *Gloria*, *Onore*, e *Saggezza* come i Garou, anche se danno più peso a *Saggezza*. In ordine di importanza:  
+
+- *Saggezza* si ottiene scoprendo segreti e rivelarli ad altri; agire in modo 'saggio' (come lo intendono i non-Corax) non fa notare l'individuo.  
+- *Onore* si guadagna con azioni che danno benefici a tutti i Corax, specialmente azioni altruiste.
+- *Gloria* si ottiene combattendo per il bene maggiore... quando necessario. Non vengono mai premiate irruenza o rabbia.  
+
+## Ranghi
+
+| Rango | Titolo    | Gloria | Onore | Saggezza |
+|:------|:----------|:-------|:------|:---------|
+| 1     | Oviculum  | 0      | 0     | 3        |
+| 2     | Neocornix | 0      | 0     | 6        |
+| 3     | Ales      | 1      | 2     | 8        |
+| 4     | Volucris  | 2      | 3     | 10       |
+| 5     | Corvus    | 3      | 5     | 10       |
