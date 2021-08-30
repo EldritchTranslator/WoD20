@@ -2,6 +2,52 @@
 
 # Organizzazione
 
+# Le leggi di Corvo (e un po' di Helios)
+
+## Non ci sono segreti
+
+E' nostro dovere scoprire ciò che è nascosto, anche i segreti più oscuri e spiacevoli. Se qualcuno sta nascondendo qualcosa di solito c'è un motivo, e di solito il motivo è pericoloso. Se hai un dubbio che ci sia qualcosa da scoprire, segui l'istinto di ricerca.  
+
+## Condividi quello che sai
+
+La conoscenza non serve a nulla se non viene usata. Tuttavia non è necessario agire in prima persona, basta riferire le informazioni ad altri, e queste raggiungeranno le orecchie di chi è più adatto ad agire. Questa è anche una questione di sicurezza -  è facile mettere a tacere un corvo solo, ma più sanno il segreto, meno diventa urgente mettere a tacere chi lo ha scoperto in primo luogo.  
+
+## Insegna quello che verrà imparato
+
+Insegnare le informazioni di cui vinei a conoscenza è imperativo, poco importa quello che devi fare. Violenza, rendersi ridicoli, minacciare, Corvo permette tutto purché le informazioni passino a chi di dovere - ci sono poche cose più importanti di questo.  
+
+## Proteggi le uova
+
+Le uova sono il futuro dei Corax. Vanno protette con tutto tranne che la propria vita (i Corax sono già pochi, salvare un altro con la propria vita in genere è uno spreco). Chi attacca le uova è un nemico da eliminare con massima cura.  
+
+## Ricorda perché sei qui
+
+E' importante tenere presente il proprio ruolo - i Corax non sono combattenti ma messaggeri e spie. La maggior parte delle volte scappare non è solo conveniente, ma è la cosa giusta da fare per sopravvivere e comunicare le proprie scoperte a coloro il cui ruolo **è** combattere.  
+
+## Sii testimone
+
+Ogni essere vivente ha una storia, ed è dovere dei Corax di esserne testimone e salvarle. Bere gli occhi è anche un modo per preservare queste storie, e portare rispetto al cadavere; non solo si porta con sè un frammento della sua storia, ma anche un pezzo del suo corpo. Inoltre, non ci si può voltare da un'altra parte, non importa quanto cruento o spiacevole: non bisogna mancare di rispetto così a queste storie.  
+
+## La verità è ciò che importa
+
+Informazioni parziali o inaccurate uccidono. Non c'è ragione al mondo di trattenere i dettagli di una storia, specialmente non le proprie fisime. Se non si ha l'intera storia, se non la si può raccontare accuratamente e senza supposizioni raffazzonate, allora è meglio non raccontarla.
+
+## Tutto è parte del Ciclo
+
+Gaia ha creato ogni cosa con un suo scopo. Non presumere l'inutilità di qualche cosa finché non la si è studiata attentamente - altrimenti qualcun altro potrebbe farlo con te.  
+
+## Non fare preferenze
+
+I Corax rispettano in egual modo sia Corvo che Helios, e lo devono dimostrare a ogni occasione, ringraziandoli entrambi prima dei Parlamenti, sussurrando segreti al cielo, e simile. Preferire Corvo a Helios può portare a risentimento che in genere si vuole evitare.
+
+## Vola!
+
+Hai le ali: vola. Perché? Perché nessun altro mutaforma ha le ali. Perché hai la possibilità di vedere le cose da più angolazioni, e viaggiare - non lasciare che nessuno dei tuoi talenti languisca ignorato.  
+
+## Ridi
+
+Se non si ride, si piange, dunque è meglio ridere. I Corax sono fortunati, con il favore di Helios e Corvo, e il dono del volo, e ricordare e riconoscere ogni cosa di divertente e pieno di humor aiuta quando sei presente come testimone di tutti i segreti più sordidi del mondo. 
+
 # Tratti
 
 - Atletica -1 a difficoltà in tutte le forme;
