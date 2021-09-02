@@ -219,9 +219,15 @@ Come il Dono Lupus.
 ### Guardia del Sole (liv 3)
 
 Questo Dono protegge il Corax da fuoco e calore. Viene insegnato da un Avatar di Corvo.  
-Sistema: Si spendono due punti Furia per fare un tiro di Costituzione + Istinto Primordiale (diff 6). Il COrax è così immune a ogni fuoco, fiamma e calore, non importa quanto intensi, per un numero di turni pari ai successi. Rimane vulnerabile al Balefire.  
+Sistema: Si spendono due punti Furia per fare un tiro di Costituzione + Istinto Primordiale (diff 6). Il Corax è così immune a ogni fuoco, fiamma e calore, non importa quanto intensi, per un numero di turni pari ai successi. Rimane vulnerabile al Balefire.  
 
 ## Riti  
+
+### Dedica del Talismano
+
+Livello 1, 
+
+(Uguale ai Garou)
 
 ### Occhi dello stormo
 
@@ -241,6 +247,18 @@ Livello 2, Mistico
 Il rito per creare un nuovo Corax; il più importante di tutti i Riti. Richiede dei capelli o una penna dal 'genitore' per legare l'uovo spirito al futuro Corax.  
 Sistema: Il rito è da fare nell'Umbra, e richiede un Corax di specie opposta al genitore come testimone. Dura tre ore e creare l'uovo costa tre punti permanenti di Gnosi, poi richiede un'altra ora per legare l'uovo all'individuo. 
 
+### Rito del Divenire  
+
+Livello 2, 
+
+(Come i Garou - viene dai Corax però)
+
+### Rito del Furto della memoria
+
+Livello 4, Punizione
+
+
+
 ## Feticci
 
 ### uPhone  
@@ -251,9 +269,47 @@ Un cellulare che funziona ovunque e in qualunque dimensione, senza mai scaricars
 
 # Pregi e Difetti  
 
-## Doppia sorsata (2 punti)
+## Doppia sorsata (2 punti) [P. Sovrannaturale]
 
 Il Corax può bere da entrambi gli occhi di un morto, vedendo sia il peggio che il meglio della morte di qualcuno.  
+
+---
+
+## Studente veloce (2 punti) [P. Mentale]
+
+Questo Pregio permette al Corax di dimezzare il tempo di apprendimento di un'Abilità, Dono, o Conoscenza (ma non Attitudine).  
+
+## Vista a volo d'uccello (4 punti) [P. Sovrannaturale]
+
+Con un tiro di Prontezza + Sesto senso a difficoltà 7 il Corax riesce a trovare anche in una fitta folla il bersaglio migliore (cioè il più interessante) da seguire. Un fallimento critico manda il Corax in una direzione completamente sbagliata ma comunque possibilmente interessante.  
+
+## Dieta di vermi (1 punto) [D. Sociale]
+
+Le tue diete si scambiano - da uccello hai voglia di mangiare cibo da umani, mentre da umano hai voglia di mangiare vermi e altre schifezze. Per resistere a questo impulso devi superare un tiro Volontà a difficoltà 7.  
+
+## Emù (7 punti) [D. Sovrannaturale]
+
+Non sai volare. Tra i Corax vieni trattato al meglio con derisione e mai con rispetto. 
+
+## Vertiginoso (5 punti) [D. Mentale]
+
+Ogni volta che voli più in alto della tua altezza da Homid ti vengono delle vertigini pazzesche a meno che non superi un tiro Volontà a difficoltà 6. Questo accade anche quando ti appollai a più di 3 metri d'altezza.  
+
+## Perdere il Sole (4 punti) [D. Sovrannaturale]
+
+Sei annoiato delle viste del mondo normale e senti il richiamo dell'Umbra. Ogni volta che entri nell'Umbra devi superare un tiro Volontà a difficoltà 7 per non volare via a esplorare. Finché sei nell'Umbra sei distratto, e hai +1 a tutti i tiri di Prontezza, Intelligenza, e Percezione. Nota: questo Difetto può far deragliare la trama di una cronaca, dunque bisogna fare attenzione nello sceglierlo. *(Se questo è vero, perché vale solo 4? Boh.)*  
+
+## Abitudini da uccello (1 punto) [D. Mentale]
+
+Anche da Homid hai movenze e abitudini da uccello, come un passo affrettato, muovere la testa mentre cammini, e lisciarti le penne - anche quando non ne hai. Questo può attirare l'attenzione.  
+
+## Custodia (2 punti) [P. Sociale]
+
+Ti è stato affidato un Uovo Spirito. Solo tu sai la sua posizione nell'Umbra, e solo tu sei il suo protettore. Puoi chiedere a qualunque Corax di aiutarti a proteggerlo, ma nel caso fallissi in questo compito soffri di una perdita di 3 punti Gloria permanenti. 
+
+## Artigli forti (4 punti) [P. Fisico]
+
+Se vuoi tenere la presa con i tuoi artigli su qualcosa, nulla te lo può togliere. Hai 3 dadi in più nei tiri di Forza per queste situazioni.
 
 # Background  
 
@@ -312,3 +368,5 @@ I Corax usano *Gloria*, *Onore*, e *Saggezza* come i Garou, anche se danno più 
 | 3     | Ales      | 1      | 2     | 8        |
 | 4     | Volucris  | 2      | 3     | 10       |
 | 5     | Corvus    | 3      | 5     | 10       |
+
+
