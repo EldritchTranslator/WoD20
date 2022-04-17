@@ -55,21 +55,21 @@ Se non si ride, si piange, dunque è meglio ridere. I Corax sono fortunati, con 
 - Bere gli occhi: Percezione + Empatia diff 7. L'occhio sinistro mostra gli effetti negativi della morte della persona, e quello destro gli effetti positivi;
 - Tiro Volontà diff 7 per non essere distratti da cose sbrilluccicose.
 
-## Specie  
+## Specie
 
 Tutti i Corax iniziano con Furia 1, Gnosi 6, Volontà 3. Non esistono Corax Metis, ma due Corax assieme non possono avere figli Corax. Nuovi Corax vengono creati con il *Rito dell'uovo feticcio*.  
 
 - **Corvidi**: Corax nati corvi. Hanno la Prima Muta tra gli otto e i dieci mesi di età. La loro aspettativa di vita naturale è pari a quella umana. Tendono a fare gruppo assieme, chiacchierano ancora di più del normale, e non sono molto bravi con la nozione di 'proprietà privata'.  
 
-I Corax Corvidi non possono iniziare alla creazione del personaggio con Computer, Legge, Medicina, Politica, e Scienze prima del point buy. Iniziano il gioco con due punti extra nel Talento Hobby: Volo.  
+I Corax Corvidi non possono iniziare alla creazione del personaggio con Accademiche, Computer, Legge, Medicina, Politica, e Scienze prima del point buy. Iniziano il gioco con due punti extra nel Talento Hobby: Volo.  
 
 - **Homid**: Tendono ad essere persone ansiose e solitarie, con fattezze sottili e aquiline. Sono molto bravi a prestare attenzione, e viaggiano e si muovono molto.  
 
 I Corax Homid non possono iniziare alla creazione del personaggio con punti in Talento Hobby: Volo prima del point buy.
 
-## Forme  
+## Forme
 
-### Corvide  
+### Corvide
 
 Forza: -1  
 Destrezza: +1  
@@ -78,13 +78,13 @@ Percezione: +4
 
 Forma adatta alla ricognizione aerea e, se si viene scoperti, a strappare gli occhi al nemico prima di volare via velocemente.  
 
-### Homid  
+### Homid
 
 Nessun cambio di statistica.  
 
 Persone dall'aspetto non solo vagamente goth, con capelli, occhi, e vestiario nero, decorati in gioielli luccicosi. Hanno la caratteristica di avere gli anulari più lunghi dei medi.  
 
-### Crinos  
+### Crinos
 
 Forza: +1  
 Destrezza: +1  
@@ -97,18 +97,18 @@ Corpo umanoide, becco, piume - hanno ali invece che braccia, con artigli invece 
 
 Gli artigli Corax fanno danni aggravati.  
 
-## Doni generici Corax  
+## Doni generici Corax
 
 I Corax hanno un'unica lista di doni generica, cambiano solo i doni di partenza:  
 - Gli Homid iniziano con tre Doni tra: Vie del nemico, Morse, Aprire il Sigillo, Credibilità, Linguaggio degli Spiriti, Copiavoce, e Parole dell'Oltre.  
 - I Corvid iniziano con tre Doni tra: Vie del Nemico, Giudizio di corvo, Odore della vera forma, Linguaggio degli Spiriti, Verità di Gaia, Copiavoce, e Parole dell'Oltre.  
 
-### Vie del Nemico (liv 1)  
+### Vie del Nemico (liv 1)
 
 Il Corax ottiene un acuto e accurato senso del pericolo. Questo Dono viene insegnato da un Corvo Tempesta di Nonno Tuono.  
 Sistema: Il giocatore lancia Percezione + Istinto Animale diff 7 per conoscere numero e natura delle entità ostili in un raggio di (Saggezza x 20) metri, e più successi nel tiro rivelano più informazioni.  
 
-### Morse (liv 1)  
+### Morse (liv 1)
 
 Picchiettando il messaggio su una superficie Il Corax si assicura che qualcuno senta il suo messaggio. Questo Dono viene insegnato da uno spirito macchina.  
 Sistema: Spendendo un punto Gnosi il Corax più vicino sentirà e capirà il messaggio. Con un tiro di Prontezza + Espressività a diff 8 il messaggio può essere mandato a un altro mutaforma di Gaia.  
@@ -150,7 +150,7 @@ Sistema: Con un tiro Prontezza + Espressività (diff 6) puoi creare un segnale c
 
 ### Richiamo delle carcasse (liv 2)
 
-Questo Dono aiuta i COrax nei loro doveri verso i morti, guidandoli verso i cadaveri. Uno spirito avvoltoio insegna questo Dono.  
+Questo Dono aiuta i Corax nei loro doveri verso i morti, guidandoli verso i cadaveri. Uno spirito avvoltoio insegna questo Dono.  
 Sistema: Con un tiro di Percezione + Empatia (diff 6) il Corax viene a conoscenza di tutti i cadaveri in un raggio di (successi x 1,5) km.  
 
 ### Resistenza del messaggero (liv 2)
@@ -221,7 +221,7 @@ Come il Dono Lupus.
 Questo Dono protegge il Corax da fuoco e calore. Viene insegnato da un Avatar di Corvo.  
 Sistema: Si spendono due punti Furia per fare un tiro di Costituzione + Istinto Primordiale (diff 6). Il Corax è così immune a ogni fuoco, fiamma e calore, non importa quanto intensi, per un numero di turni pari ai successi. Rimane vulnerabile al Balefire.  
 
-## Riti  
+## Riti
 
 ### Dedica del Talismano
 
@@ -235,19 +235,19 @@ Livello 2, Mistico
 Il Corax che usa questo Rito può vedere attraverso gli occhi di qualunque altro corvide.  
 Sistema: Quando il Rito viene eseguito con successo il Maestro di Rito e tutti i partecipanti possono vedere tramite gli occhi di qualunque altro corvide in un raggio di (Gnosi x 1,5) km. Il peso delle sensazioni ricevute è enorme ma può essere diviso tra i partecipanti; per riuscire a trovare ciò che si cerca il reggente deve fare un tiro di Percezione + Enigmi a difficoltà 9 con -1 per ogni altro partecipante.  
 
-### Rito dei brillanti raggi solari  
+### Rito dei brillanti raggi solari
 
 Livello 2, Mistico
 Con danze offerte a Helios i Corax portano la luce del Sole nel mondo.  
 Sistema: Il Rito non ha costo e richiede 20 minuti. Il giocatore fa un tiro di Prontezza + Rituali a difficoltà 7. Al termine del rito se si ha un successo la luce del sole splende dal Corax in un raggio di 20 metri, dura un'ora per successo, e rimane anche se il Corax se ne va.  
 
-### Rito dell'uovo feticcio  
+### Rito dell'uovo feticcio
 
 Livello 2, Mistico
 Il rito per creare un nuovo Corax; il più importante di tutti i Riti. Richiede dei capelli o una penna dal 'genitore' per legare l'uovo spirito al futuro Corax.  
 Sistema: Il rito è da fare nell'Umbra, e richiede un Corax di specie opposta al genitore come testimone. Dura tre ore e creare l'uovo costa tre punti permanenti di Gnosi, poi richiede un'altra ora per legare l'uovo all'individuo. 
 
-### Rito del Divenire  
+### Rito del Divenire
 
 Livello 2, 
 
@@ -261,13 +261,13 @@ Livello 4, Punizione
 
 ## Feticci
 
-### uPhone  
+### uPhone
 
 Livello 3, Gnosi 8  
 
 Un cellulare che funziona ovunque e in qualunque dimensione, senza mai scaricarsi o costare.
 
-# Pregi e Difetti  
+# Pregi e Difetti
 
 ## Doppia sorsata (2 punti) [P. Sovrannaturale]
 
@@ -311,15 +311,15 @@ Ti è stato affidato un Uovo Spirito. Solo tu sai la sua posizione nell'Umbra, e
 
 Se vuoi tenere la presa con i tuoi artigli su qualcosa, nulla te lo può togliere. Hai 3 dadi in più nei tiri di Forza per queste situazioni.
 
-# Background  
+# Background
 
 I Corax raramente seguono a lungo un solo mentore, e per loro la Razza Pura è una scemata elitista. Non hanno Totem personali: Corax dà a tutti Atletica +1, Enigmi +1, e Sotterfugio +1.  
 
-## Segreti  
+## Segreti
 
 Il personaggio possiede delle informazioni che possono essere considerate importanti o dannose da qualcun altro. Queste informazioni possono portare guai ma sono più che altro utili al personaggio.
 
-## Mappe Umbrali  
+## Mappe Umbrali
 
 Il personaggio possiede molte conoscenze dell'Umbra e ha molta esperienza nell'attraversarla. 
 
